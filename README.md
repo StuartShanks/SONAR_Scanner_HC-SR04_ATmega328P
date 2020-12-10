@@ -1,5 +1,5 @@
 # SONAR_Scanner_HC-SR04_ATmega328P
-Implementation of the HC-SR04 Ultrasonic Sensor with the ATmega328P microcontroller, in C.
+Implementation of the HC-SR04 Ultrasonic Sensor with the ATmega328P microcontroller.
 
 Video Demonstration: https://youtu.be/vQZuYXfYyj8
 
