@@ -1,6 +1,8 @@
 # SONAR_Scanner_HC-SR04_ATmega328P
 Implementation of the HC-SR04 Ultrasonic Sensor with the ATmega328P microcontroller, in C.
 
+Video Demonstration: https://youtu.be/vQZuYXfYyj8
+
 The overall aim of this project is to create a SONAR scanner by interfacing an ultrasonic sensor with the ATmega328P. 
 The ultrasonic sensor will be attached to a servo motor which can rotate 180 degrees. 
 The servo will rotate, and at each angle of rotation the ultrasonic sensor will take a measurement. 
